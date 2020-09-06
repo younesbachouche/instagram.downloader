@@ -9,7 +9,7 @@ const body = `<main>
     <p>On this page you can download images or <b>public</b> videos from Instagram accounts, in the application you can go to the image and to the right <b>(the 3 points)</b> in the menu you give it to copy image and paste it or if you are on the computer you just have to Copy the link.</p><p>To save an image from the mobile phone, press and hold until the menu comes out and then download the image if it is from the computer, simply right click save image.</p>
 <p>To save a video from your mobile, click on the 3 dots and download and if you are on the computer, right click and save as.</p><p>This page does not save any information do not worry :).</p>
 	</section>
-	<footer>Make width ♥ Moncho Varela</footer>
+	<footer>Make width ♥ Younes Bachouche</footer>
 </main>`;
 // insert in body
 document.body.innerHTML = body;
