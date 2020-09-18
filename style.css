@@ -52,7 +52,7 @@ header {
   left: 0;
   width: 100%;
   height: 4em;
-  background: #F44336;
+  background: #DB5A6B;
   margin: 0 auto;
   text-align: center;
   color: #f9f9f9;
@@ -70,14 +70,14 @@ input {
   min-height: 2.8em;
   padding: 0.5em;
   margin: 0.5em 0;
-  background: #E53935;
-  border-color: #E53935;
+  background: #DB5A6B;
+  border-color: #DB5A6B;
   border-width: 1px;
   color: #f9f9f9;
   transition: all 500ms ease;
 }
 input:focus, input:hover {
-  border-color: #F44336;
+  border-color: #DB5A6B;
   transition: all 500ms ease;
 }
 
@@ -93,14 +93,14 @@ input:focus, input:hover {
   min-width: 2.8em;
   height: 2.8em;
   margin: 0;
-  background: #E53935;
-  border-color: #E53935;
+  background: #F47983;
+  border-color: #F47983;
   border-width: 1px;
   color: #f9f9f9;
   transition: all 500ms ease;
 }
 .search:focus, .search:hover {
-  background: #F44336;
+  background: #F47983;
   border-color: #f9f9f9;
   cursor: pointer;
   transition: all 500ms ease;
@@ -119,14 +119,14 @@ input:focus, input:hover {
   text-decoration: none;
   display: inline-block;
   padding: 0.5em 1em;
-  background: #E53935;
-  border-color: #E53935;
+  background: #F47983;
+  border-color: #F47983;
   border-width: 1px;
   color: #f9f9f9;
   transition: all 500ms ease;
 }
 .result .download:focus, .result .download:hover {
-  background: #F44336;
+  background: #F47983;
   border-color: #f9f9f9;
   cursor: pointer;
   transition: all 500ms ease;
