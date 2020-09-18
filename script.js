@@ -1,13 +1,12 @@
 // Template
 const body = `<main>
 	<header class="navbar">
-		<input type="text" value="https://www.instagram.com/p/BzVwWQBi-9S/" placeholder="Paste address here">
-    <button class="search" onclick="extractHtml()">Render</button>
+		<input type="text" value="Paste Here" placeholder="Paste address here">
+    <button class="search" onclick="extractHtml()"> Download </button>
 	</header>
 	<section class="result">
 		<div class="no-image"></div>
-    <p>On this page you can download images or <b>public</b> videos from Instagram accounts, in the application you can go to the image and to the right <b>(the 3 points)</b> in the menu you give it to copy image and paste it or if you are on the computer you just have to Copy the link.</p><p>To save an image from the mobile phone, press and hold until the menu comes out and then download the image if it is from the computer, simply right click save image.</p>
-<p>To save a video from your mobile, click on the 3 dots and download and if you are on the computer, right click and save as.</p><p>This page does not save any information do not worry :).</p>
+    <p>This Website will afford you the ability to Download <b>public</b> pictures and videos in a very easy way from <b>Instagram</b> , and here are the steps ;</p><p>In the chosen  image/video on your Instagram, click on the 3 dots ( right up) <b>copy the link</b> then paste it on the sidebar of the website and click on <b>download</b></p><p>This page does not save any information do not worry :).</p>
 	</section>
 	<footer>Make width ♥ Younes Bachouche</footer>
 </main>`;
