@@ -8,7 +8,7 @@ const body = `<main>
 		<div class="no-image"></div>
     <p>This Website will afford you the ability to Download <b>public</b> pictures and videos in a very easy way from <b>Instagram</b> , and here are the steps ;</p><p>In the chosen  image/video on your Instagram, click on the 3 dots ( right up) <b>copy the link</b> then paste it on the sidebar of the website and click on <b>download</b></p><p>This page does not save any information do not worry :).</p>
 	</section>
-	<footer>Make width ♥ Younes Bachouche</footer>
+	<footer>Made with ♥ by Younes Bachouche</footer>
 </main>`;
 // insert in body
 document.body.innerHTML = body;
