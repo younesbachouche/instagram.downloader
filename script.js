@@ -1,7 +1,7 @@
 // Template
 const body = `<main>
 	<header class="navbar">
-		<input type="text" value="https://www.instagram.com" placeholder="Paste address here">
+		<input type="text" value="instagram.com/younesbachouche/" placeholder="Paste address here">
     <button class="search" onclick="extractHtml()"> Download </button>
 	</header>
 	<section class="result">
